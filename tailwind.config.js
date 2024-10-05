@@ -5,11 +5,19 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "",
-        secondary: "",
+        primary: "#5319bf",
+        secondary: "#2a0b41",
+        tertiary: "#1a0629",
+        title: "#e2d8e3",
+        blackPrimary: "#000000",
+        darkGray: "#404040",
+        medGray: "#525252",
+        lightGray: "#e2e1dd"
+
       },
       fontFamily: {
-        poppins: ["Poppins", "sans-serif"],
+        epilogue: ['Epilogue', ],
+        montserrat: ['Montserrat', ],
       },
     },
     screens: {
